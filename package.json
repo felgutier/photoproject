@@ -10,5 +10,8 @@
     "node"
   ],
   "author": "felgutier",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
