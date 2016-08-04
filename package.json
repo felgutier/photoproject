@@ -1,0 +1,14 @@
+{
+  "name": "photoproject",
+  "version": "0.1.0",
+  "description": "Photoproject :)",
+  "main": "server.js",
+  "keywords": [
+    "phothoproject",
+    "felgutier",
+    "javascript",
+    "node"
+  ],
+  "author": "felgutier",
+  "license": "ISC"
+}
